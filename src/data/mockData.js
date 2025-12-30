@@ -7,7 +7,7 @@ export const personalInfo = {
   phone: "+963 957 571 802",
   github: "https://github.com/MohamedRayyan1",
   linkedin: "https://www.linkedin.com/in/m-n-rayyan",
-  profileImage: "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=400&h=400&fit=crop",
+  profileImage: "12.jpg",
   bio: "Motivated backend developer with hands-on experience in building and optimizing server-side applications using technologies like Laravel and SQL. Strong understanding of APIs, databases, and version control (Git). Currently pursuing a Bachelor's degree in Computer Science, with a focus on backend development."
 };
 
