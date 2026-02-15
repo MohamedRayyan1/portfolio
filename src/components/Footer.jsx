@@ -103,9 +103,7 @@ const Footer = () => {
             <p className="text-gray-400 text-sm text-center md:text-left">
               © {currentYear} {personalInfo.name}. All rights reserved.
             </p>
-            <p className="text-gray-400 text-sm flex items-center gap-2">
-              Made with <Heart size={16} className="text-red-500 fill-current" /> by {personalInfo.name.split(' ')[0]}
-            </p>
+
             <button
               onClick={scrollToTop}
               className="px-4 py-2 bg-slate-800 text-cyan-400 rounded-lg hover:bg-cyan-500/20 transition-all text-sm font-medium"
